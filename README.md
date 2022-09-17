@@ -3,8 +3,8 @@
 Do Fork And Star The Repository If You Liked It.
 
 <p align="center">
-  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/tgbotsProject/Auto-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/JOSProjects/auto-filter-bot
+
     
   </a>
   <a href="https://github.com/tgbotsProject/Auto-Filter-Bot">
